@@ -57,6 +57,11 @@
 
 [Abra outro arquivo do projeto](./OUTRO.md)
 ```
+[Visite o github](https://github.com/)
+
+[Simple Badges](https://badges.pages.dev/)
+
+[Abra outro arquivo do projeto](./OUTRO.md)
 
 ## Código em Linha e Blocos de Código
 
@@ -67,3 +72,26 @@ git add .
 git commit -m "Descrição"
 git push origin main
 ```
+# Citações
+
+```
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+```
+
+> Uma boa documentação explica o objetivo, o uso e as limitações de um projeto.
+
+## Tabelas
+| TECNOLOGIA | FINALIDADE |
+| --- | --- |
+| Git | Controle e colaboração |
+| GitHub | Hospedagem e Colaboração |
+| Markdown | Documentação |
+
+| Alinhado a esquerda | alinhado ao centro | alinhado a direita |
+| :--- | :---: | ---: |
+| texto | texto | texto |
+
+## Imagens
+
+![Homer Simpsom](./img/homer.webp)
+![Nyan Cat](./img/nyancat.jpg)
